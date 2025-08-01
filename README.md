@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muthuraj D</h1>
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Hackathon Winner</h3>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70A8D&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -34,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muthuraj-coder&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthuraj-coder&layout=compact&theme=radical" alt="Top Languages" height="165"/>
@@ -42,30 +35,9 @@
 
 ---
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muthuraj-coder&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Muthuraj-coder/Muthuraj-coder/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ### 👀 Visitor Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muthuraj-coder&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
-### 💡 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </p>
 
 ---
