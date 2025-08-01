@@ -1,0 +1,28 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every 24 hours
+  workflow_dispatch:        # Allow manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Muthuraj-coder
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push Snake to Output Branch
+        run: |
+          mkdir -p output
+          mv dist/github-contribution-grid-snake.svg output/
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add output/*
+          git commit -m "Generate Snake"
+          git push origin HEAD:output --force
