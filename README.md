@@ -1,45 +1,76 @@
-<h1 align="center">Hi 👋, I'm Muthuraj D</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Hackathon Winner</h3>
+<h1 align="center">
+  Hi, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand" width="40" height="40" />
+  I'm MUTHURAJ D
+</h1>
+
+<p align="center">🚀 Full Stack Developer | 2x Hackathon Winner</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Muthuraj-coder&color=ff69b4&style=for-the-badge)
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 Exploring **AI-powered applications & modern web tech**  
-- 💻 Skilled in **React, Node.js, MongoDB, Flutter, Tailwind CSS**  
-- 🤖 Passionate about **AI, GNNs & Intelligent Study Tools**  
-- 🏆 **2x Hackathon Winner** | Pre-final Year **CSE Student**  
-- 📫 Reach me at **[muthurajias3232@gmail.com](mailto:muthurajias3232@gmail.com)**  
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/muthu-raj-d-399550325/)**  
+## 👨‍💻 About Me
+- 🎓 Pre-final Year **CSE Student** with a passion for **AI-powered applications**  
+- 🌱 Learning and building **Full Stack Web & Flutter Applications**  
+- 🤖 Exploring **Graph Neural Networks (GNNs) & Intelligent Study Tools**  
+- 🏆 **2x Hackathon Winner** for AI-driven web projects  
+- 📧 Reach me at: **[muthurajias3232@gmail.com](mailto:muthurajias3232@gmail.com)**  
+- 🌐 Connect on **[LinkedIn](https://www.linkedin.com/in/muthu-raj-d-399550325/)**  
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muthu-raj-d-399550325/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/MuthurajCoder/) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/muthurajd_23cse) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
 
 ---
 
-### 📊 GitHub Stats
+# 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Muthuraj-coder)
+
+---
+
+# 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Muthuraj-coder&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muthuraj-coder&theme=radical&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthuraj-coder&theme=radical&hide_border=false&layout=compact" alt="Top Languages" width="40%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muthuraj-coder&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthuraj-coder&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Muthuraj-coder&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-### 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muthuraj-coder&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
-⭐ **"I love turning ideas into real-world applications with clean, efficient code."**
+⭐ **“Transforming ideas into reality with clean and impactful code.”**
