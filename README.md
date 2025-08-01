@@ -10,13 +10,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Pre-final Year **CSE Student** with a passion for **AI-powered applications**  
-- 🌱 Learning and building **Full Stack Web & Flutter Applications**  
-- 🤖 Exploring **Graph Neural Networks (GNNs) & Intelligent Study Tools**  
-- 🏆 **2x Hackathon Winner** for AI-driven web projects  
+- 🎓 Pre-final Year **CSE Student**  
+- 🌱 Learning **Full Stack Web Development and Flutter**  
+- 💻 Comfortable with **React, React+Vite, Node.js, MongoDB **   
+- 🏆 Participated in **Hackathons** and eager to build real-world projects  
 - 📧 Reach me at: **[muthurajias3232@gmail.com](mailto:muthurajias3232@gmail.com)**  
-- 🌐 Connect on **[LinkedIn](https://www.linkedin.com/in/muthu-raj-d-399550325/)**  
-
+- 🌐 Connect on **[LinkedIn](https://www.linkedin.com/in/muthu-raj-d-399550325/)**
 ---
 
 ## 🌐 Socials
