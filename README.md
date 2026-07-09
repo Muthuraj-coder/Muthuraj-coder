@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Pre-final Year **CSE Student**  
+- 🎓 Final Year **CSE Student**  
 - 🌱 Learning **Full Stack Web Development**  
 - 💻 Comfortable with **React, React+Vite, Node.js, MongoDB **   
 - 🏆 Participated in **Hackathons** and eager to build real-world projects  
